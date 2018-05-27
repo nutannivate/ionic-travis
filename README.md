@@ -1,8 +1,6 @@
 # Ionic Travis
 
-master branch: [![Build Status](https://travis-ci.org/okode/ionic-travis.svg?branch=master)](https://travis-ci.org/okode/ionic-travis)
-
-develop branch: [![Build Status](https://travis-ci.org/okode/ionic-travis.svg?branch=develop)](https://travis-ci.org/okode/ionic-travis)
+master-build-success: [![Build Status](https://travis-ci.org/nutannivate/ionic-travis.svg?branch=master-build-success)](https://travis-ci.org/nutannivate/ionic-travis)
 
 Ionic app built with Travis CI.
 
