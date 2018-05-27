@@ -2,6 +2,7 @@ branches:
   only:
   - master
   - develop
+  - master-build-success
 matrix:
   include:
   - os: linux
@@ -27,7 +28,7 @@ matrix:
         - oracle-java8-set-default
         - yarn
         - jq
-	- gradle
+        - gradle
     licenses:
     - android-sdk-preview-license-.+
     - android-sdk-license-.+
