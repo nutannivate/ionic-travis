@@ -1,7 +1,7 @@
 branches:
   only:
-  - master
   - develop
+  - dev-build-success
 matrix:
   include:
   - os: linux
